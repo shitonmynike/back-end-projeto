@@ -1,0 +1,44 @@
+{ 
+    "editais": [
+        {
+            "localEntrega" : "Batel,Curitiba",
+            "dataEntrega" : "20/12/2024",
+            "itens" : [
+                {
+                "desc" : "Item bla bla bla" ,
+                "quantidade" : "10",
+                "valorEdital" : "20,19",
+                "fornecedores" : [
+                    {
+                        "nomeFornecedor" : "ZecaProdutos",
+                        "ValorFornecedor" : "10,05",
+                        "descFornecedor" : "blabla bla fornecedor"
+                    },
+                    {
+                        "nomeFornecedor" : "JocaProdutos",
+                        "ValorFornecedor" : "11,05",
+                        "descFornecedor" : "blabla bla fornecedor2"
+                    }
+                ]
+                },
+                {
+                    "desc" : "Item bla bla bla2" ,
+                    "quantidade" : "12",
+                    "valorEdital" : "21,19",
+                    "fornecedores" : [
+                        {
+                            "nomeFornecedor" : "JoaoProdutos",
+                            "ValorFornecedor" : "13,05",
+                            "descFornecedor" : "blabla bla fornecedor3"
+                        },
+                        {
+                            "nomeFornecedor" : "AnaProdutos",
+                            "ValorFornecedor" : "5,05",
+                            "descFornecedor" : "blabla bla fornecedor4"
+                        }
+                    ]
+                    }
+            ]
+        }
+    ]
+}
